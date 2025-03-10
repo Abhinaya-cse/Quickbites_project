@@ -1,2 +1,2 @@
 # Food-Ordering-App-MERN
-Demo - <a href="https://drive.google.com/drive/folders/12JF7lomAjVGiN0_SRNpyaQev7Gp9TuYw?usp=drive_link">view video</a>
+Demo - <a href="https://drive.google.com/file/d/1iXgbUQMKAWVMFzujxYepu5X88yV73PX1/view?usp=sharing">view video</a>
